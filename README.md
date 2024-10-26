@@ -26,3 +26,5 @@ I’m always open to collaborating on innovative projects and participating in h
 - I collect coins from different countries and enjoy learning about their history.
 
 Thanks for visiting my profile! Looking forward to connecting with you.
+
+![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
