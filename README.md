@@ -23,7 +23,7 @@ Feel free to check them out!
 I’m always open to collaborating on innovative projects and participating in hackathons. If you have an idea or project in mind, let’s connect!
 
 ## 📫 How to Reach Me
-- Email: [shivanggupta2025@gmail.com](mailto:imshivang007@gmail.com)
+- Email: [imshivang007@gmail.com](mailto:imshivang007@gmail.com)
 - LinkedIn: [Shivang Gupta](https://www.linkedin.com/in/shivang-gupta-65744a225)
 
 ## 🌟 Fun Facts
