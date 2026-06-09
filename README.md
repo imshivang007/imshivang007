@@ -24,6 +24,7 @@ I’m always open to collaborating on innovative projects and participating in h
 
 ## 📫 How to Reach Me
 - Email: [imshivang007@gmail.com](mailto:imshivang007@gmail.com)
+-      : [shivanggupta2025@gmail.com](mailto:shivanggupta2025@gmail.com)
 - LinkedIn: [Shivang Gupta](https://www.linkedin.com/in/shivang-gupta-65744a225)
 
 ## 🌟 Fun Facts
