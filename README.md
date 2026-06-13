@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with a strong 
 
 An AI-powered online pharmacy platform for pets that helps users detect pet illnesses and receive medication recommendations. The platform includes medicine purchasing, vaccination scheduling, grooming services, pet care blogs, a pet gallery, and an FAQ section, providing a complete ecosystem for pet healthcare and management.
 
-**Tech Stack:** React.js, Django, Python, MongoDB, Machine Learning
+**Tech Stack:** React.js, Flask, Python, MongoDB, Machine Learning
 
 **Key Features:**
 
