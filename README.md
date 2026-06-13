@@ -42,7 +42,7 @@ A full-stack accommodation booking platform that connects travelers with unique 
 
 A modern property rental platform designed to simplify property discovery, listing management, and rental operations through an intuitive and responsive interface.
 
-**Tech Stack:** TypeScript, React.js
+**Tech Stack:** TypeScript, React Native
 
 🔗 Repository: https://github.com/imshivang007/RentSphere
 
@@ -52,7 +52,7 @@ A modern property rental platform designed to simplify property discovery, listi
 
 A food ordering and delivery platform that enables users to browse restaurants, place orders, and enjoy a seamless food delivery experience.
 
-**Tech Stack:** TypeScript, React.js
+**Tech Stack:** TypeScript, React Native
 
 🔗 Repository: https://github.com/imshivang007/HungerHub
 
@@ -62,7 +62,7 @@ A food ordering and delivery platform that enables users to browse restaurants, 
 
 A movie discovery platform that allows users to explore movies, view details, ratings, and recommendations through a modern and interactive interface.
 
-**Tech Stack:** TypeScript, React.js
+**Tech Stack:** TypeScript, React Native
 
 🔗 Repository: https://github.com/imshivang007/MovieNest
 
