@@ -1,35 +1,178 @@
-# 👋 Hello, I&#39;m Shivang Gupta!
+# 👋 Hello, I'm Shivang Gupta!
 
-Welcome to my GitHub profile! I&#39;m a passionate Software Developer with a keen interest in web development and machine learning. I love turning innovative ideas into reality and am always eager to learn new technologies.
+Welcome to my GitHub profile! I'm a passionate Software Developer with a strong interest in Full-Stack Development, Machine Learning, and Cloud Technologies. I enjoy building innovative solutions that solve real-world problems and continuously learning new technologies.
 
-## 🌱 Currently Learning
-- **Cloud Technologies**: Exploring AWS and Azure
-- **Frontend Frameworks**: Diving deeper into React
-- **Machine Learning**: Building models with TensorFlow
+## 🚀 Currently Learning
 
-## 💼 Projects &amp; Contributions
-I enjoy collaborating on projects that challenge me and allow me to grow. Here are some projects I’ve worked on:
-- [HostHaven](https://github.com/imshivang007/HostHaven.git) -  This platform is used for booking unique accommodations around the world. Whether you’re looking for a cozy apartment, a luxurious villa, or a unique experience, HostHaven connects hosts and travelers in a seamless and secure environment.
-- [IPL Score Prediction](https://github.com/imshivang007/IPL-Score-Prediction-) -This project uses deep learning techniques to predict IPL match scores based on historical data and real-time match conditions. By analyzing factors like venue, teams, players, and match performance, the model provides accurate score predictions, enhancing cricket analytics.
-- [WeatherWise](https://github.com/imshivang007/WeatherWise.git) - This application provides real-time weather information, allowing you to easily see current weather conditions, forecasts, and more for your desired locations.
-- [Simon Says](https://github.com/imshivang007/Simon-Says) - A web-based implementation of the classic Simon Says game, where players must remember and replicate a sequence of colors as the game progresses.
-- [TicTacToe Game](https://github.com/imshivang007/TicTacToe) - This is a simple, two-player game where players take turns marking a grid with "X" or "O". The first player to align three marks horizontally, vertically, or diagonally wins the game.
-- [ChatWave](https://github.com/imshivang007/ChatWave) - ChatWave is a real-time chat application that allows users to communicate with each other. The app is built using HTML, CSS, JavaScript, Node.js, EJS, Express, and MongoDB.
-- [Vehicle Tracker](https://github.com/imshivang007/Tracker) - A simple real-time vehicle tracking system using Node.js, WebSocket, and Leaflet.js. This project simulates the movement of a vehicle on a map and updates its location in real time using OpenStreetMap tiles.
+* Cloud Computing (AWS & Azure)
+* Advanced React & TypeScript
+* System Design and Scalable Applications
+* DevOps and CI/CD Practices
 
-Feel free to check them out!
+## 💼 Projects
 
-## 🤝 Collaboration
-I’m always open to collaborating on innovative projects and participating in hackathons. If you have an idea or project in mind, let’s connect!
+### 🐾 Paltu
 
-## 📫 How to Reach Me
-- Email: [imshivang007@gmail.com](mailto:imshivang007@gmail.com)
-- [shivanggupta2025@gmail.com](mailto:shivanggupta2025@gmail.com)
-- LinkedIn: [Shivang Gupta](https://www.linkedin.com/in/shivang-gupta-65744a225)
+An AI-powered online pharmacy platform for pets that helps users detect pet illnesses and receive medication recommendations. The platform includes medicine purchasing, vaccination scheduling, grooming services, pet care blogs, a pet gallery, and an FAQ section, providing a complete ecosystem for pet healthcare and management.
 
-## 🌟 Fun Facts
-- I have a deep passion for hiking and exploring nature trails.
-- I collect coins from different countries and enjoy learning about their history.
+**Tech Stack:** React.js, Django, Python, MongoDB, Machine Learning
 
-Thanks for visiting my profile! Looking forward to connecting with you.
+**Key Features:**
 
+* Pet disease detection using Machine Learning
+* Medicine recommendation system
+* Vaccination management
+* Pet grooming services
+* Pet care blogs and educational content
+* Pet gallery and FAQ section
+
+---
+
+### 🏠 HostHaven
+
+A full-stack accommodation booking platform that connects travelers with unique stays worldwide. Users can explore, list, and book accommodations through a secure and user-friendly platform.
+
+**Tech Stack:** MongoDB, Express.js, Node.js, EJS, JavaScript
+
+🔗 Repository: https://github.com/imshivang007/HostHaven
+
+---
+
+### 🏘️ RentSphere
+
+A modern property rental platform designed to simplify property discovery, listing management, and rental operations through an intuitive and responsive interface.
+
+**Tech Stack:** TypeScript, React.js
+
+🔗 Repository: https://github.com/imshivang007/RentSphere
+
+---
+
+### 🍔 HungerHub
+
+A food ordering and delivery platform that enables users to browse restaurants, place orders, and enjoy a seamless food delivery experience.
+
+**Tech Stack:** TypeScript, React.js
+
+🔗 Repository: https://github.com/imshivang007/HungerHub
+
+---
+
+### 🎬 MovieNest
+
+A movie discovery platform that allows users to explore movies, view details, ratings, and recommendations through a modern and interactive interface.
+
+**Tech Stack:** TypeScript, React.js
+
+🔗 Repository: https://github.com/imshivang007/MovieNest
+
+---
+
+### 🏏 IPL Score Prediction
+
+A deep learning-based application that predicts IPL match scores using historical data and real-time match conditions. The model analyzes venue, teams, players, and match statistics to generate accurate predictions.
+
+**Tech Stack:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Matplotlib
+
+🔗 Repository: https://github.com/imshivang007/IPL-Score-Prediction-
+
+---
+
+### 🎬 Movie Recommendation System
+
+A machine learning project that recommends movies based on user preferences using collaborative filtering techniques and data-driven recommendations.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+
+🔗 Repository: https://github.com/imshivang007/MovieRecommendationSystem
+
+---
+
+### 📚 Library Management System
+
+A desktop-based library management application that allows administrators to manage books and users to borrow and return books efficiently.
+
+**Tech Stack:** Java, JavaFX, JDBC, MySQL
+
+🔗 Repository: https://github.com/imshivang007/LibraryManagementSystem
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* JavaScript
+* TypeScript
+* C
+
+### Frontend Development
+
+* React.js
+* HTML5
+* CSS3
+* Bootstrap
+
+### Backend Development
+
+* Node.js
+* Express.js
+* Django
+* REST APIs
+
+### Databases
+
+* MongoDB
+* MySQL
+
+### Machine Learning & Data Science
+
+* TensorFlow
+* Keras
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+
+### Tools & Technologies
+
+* Git & GitHub
+* VS Code
+* Android Studio
+* AWS
+* Azure
+
+## 🎓 Education
+
+**United College of Engineering and Research, Prayagraj**
+Bachelor of Technology (B.Tech)
+
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on:
+
+* Full-Stack Web Development Projects
+* Machine Learning Applications
+* Open Source Contributions
+* Cloud-Based Solutions
+* Hackathons and Coding Competitions
+
+## 📫 Connect With Me
+
+📧 Email: [imshivang007@gmail.com](mailto:imshivang007@gmail.com)
+
+📧 Email: [shivanggupta2025@gmail.com](mailto:shivanggupta2025@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/shivang-gupta-65744a225
+
+💻 GitHub: https://github.com/imshivang007
+
+## 🌟 About Me
+
+* Software Developer passionate about building impactful applications.
+* Interested in Full-Stack Development, Machine Learning, and Cloud Computing.
+* Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, and Database Management Systems.
+* Continuously learning new technologies and improving problem-solving skills.
+* Open to exciting opportunities, collaborations, and innovative projects.
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
